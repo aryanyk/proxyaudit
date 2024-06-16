@@ -1,2 +1,2 @@
 # proxyaudit
-This GitHub repository is a tool for fetching, validating, and storing working proxies. It can scrape proxies from multiple sources, check their availability, and categorize them into separate lists for HTTP, HTTPS, SOCKS4, and SOCKS5 proxies
+This GitHub repository is a tool for fetching, validating, and storing working proxies. It can scrape proxies from multiple sources, check their availability, and categorize them into separate lists for HTTP, HTTPS, SOCKS4, and SOCKS5 proxies. The tool supports multithreading to quickly scan and identify valid proxies, and can provide the proxy lists in various formats like TXT. This makes it easy for users to access a reliable and up-to-date collection of working proxies across different protocols.
